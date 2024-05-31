@@ -1,0 +1,11 @@
+public class consulta {
+public string Nombre {get; set;}
+public string int edad  {get; set;}
+public string string Email  {get; set;}
+public string Apellido {get; set;}
+ public nueva consulta(){
+    }
+ }
+
+
+
