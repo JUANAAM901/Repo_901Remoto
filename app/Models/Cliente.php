@@ -4,6 +4,8 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
+//hola que tal este es un comentario nuevo 
+
 /**
  * Class Cliente
  *

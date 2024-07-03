@@ -1,0 +1,1 @@
+Esto es una prueba con el comando git reset head para pasar del staging area a el wd 
